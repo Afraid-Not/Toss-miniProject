@@ -1,0 +1,50 @@
+﻿# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files
+*.npy
+*.csv
+*.parquet
+*.xlsx
+*.xls
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Model files
+*.pth
+*.pt
+*.ckpt
+*.pb
+*.onnx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Git
+.git/
