@@ -24,6 +24,13 @@ build/
 *.pkl
 *.pickle
 
+# Compressed files
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
 # Model files
 *.pth
 *.pt
