@@ -15,14 +15,23 @@ build/
 
 # Data files
 *.npy
+*.npz
 *.csv
+*.tsv
 *.parquet
 *.xlsx
 *.xls
+*.xlsm
 *.h5
 *.hdf5
 *.pkl
 *.pickle
+*.json
+*.jsonl
+*.xml
+*.db
+*.sqlite
+*.sql
 
 # Compressed files
 *.zip
@@ -30,6 +39,7 @@ build/
 *.gz
 *.rar
 *.7z
+*.bz2
 
 # Model files
 *.pth
@@ -37,6 +47,7 @@ build/
 *.ckpt
 *.pb
 *.onnx
+*.h5
 
 # IDE
 .vscode/
@@ -55,3 +66,6 @@ ENV/
 
 # Git
 .git/
+
+# Logs
+*.log
