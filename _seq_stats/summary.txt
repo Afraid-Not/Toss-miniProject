@@ -1,0 +1,11 @@
+{
+  "rows_total": 10704179,
+  "rows_non_empty": 10704179,
+  "empty_ratio": 0.0,
+  "seq_len_min": 1,
+  "seq_len_max": 14441,
+  "seq_len_mean": 530.7508784186064,
+  "seq_len_std": 434.8394099058084,
+  "tokens_unique_topK_reported": 100,
+  "pos_max_computed": 20
+}
