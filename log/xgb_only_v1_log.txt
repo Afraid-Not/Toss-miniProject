@@ -1,0 +1,24 @@
+VER: xgb_only_v1 | SEED: 1
+XGB (OOF) AP/WLL/SC = 0.60898/0.59648/0.61768
+T_xgb = 1.000
+========================================
+VER: xgb_only_v1 | SEED: 2
+XGB (OOF) AP/WLL/SC = 0.55868/1.64534/0.46835
+T_xgb = 3.000
+BACKUP: Toss\submissions\xgb_only_v1_sub\2_submission\code_backup\xgb_only_v1_20250918-205125_seed2.py
+========================================
+VER: xgb_only_v1 | SEED: 4
+XGB (OOF) AP/WLL/SC = 0.61098/0.59568/0.61884
+T_xgb = 1.000
+BACKUP: Toss\submissions\xgb_only_v1_sub\4_submission\code_backup\xgb_only_v1_20250918-205629_seed4.py
+========================================
+VER: xgb_only_v1 | SEED: 5
+XGB (OOF) AP/WLL/SC = 0.59102/0.60766/0.60652
+T_xgb = 1.050
+BACKUP: Toss\submissions\xgb_only_v1_sub\5_submission\code_backup\xgb_only_v1_20250918-221205_seed5.py
+========================================
+VER: xgb_only_v1 | SEED: 6
+XGB (OOF) AP/WLL/SC = 0.61140/0.59549/0.61908
+T_xgb = 1.000
+BACKUP: Toss\submissions\xgb_only_v1_sub\6_submission\code_backup\xgb_only_v1_20250918-223847_seed6.py
+========================================

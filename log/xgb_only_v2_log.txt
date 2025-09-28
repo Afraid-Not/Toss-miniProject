@@ -1,0 +1,65 @@
+VER: xgb_only_v2 | SEED: 1
+XGB (OOF) AP/WLL/SC = 0.59251/0.60534/0.60772
+T_xgb = 1.000
+BACKUP: Toss\submissions\xgb_only_v2_sub\1_submission\code_backup\xgb_only_v2_20250918-222515_seed1.py
+========================================
+VER: xgb_only_v2 | SEED: 2
+XGB (OOF) AP/WLL/SC = 0.60614/0.59774/0.61601
+T_xgb = 1.000
+BACKUP: Toss\submissions\xgb_only_v2_sub\2_submission\code_backup\xgb_only_v2_20250918-223007_seed2.py
+========================================
+VER: xgb_only_v2 | SEED: 3
+XGB (OOF) AP/WLL/SC = 0.61511/0.59357/0.62132
+T_xgb = 1.000
+BACKUP: Toss\submissions\xgb_only_v2_sub\3_submission\code_backup\xgb_only_v2_20250918-225632_seed3.py
+========================================
+VER: xgb_only_v2 | SEED: 4
+XGB (OOF) AP/WLL/SC = 0.61456/0.59348/0.62106
+T_xgb = 0.950
+BACKUP: Toss\submissions\xgb_only_v2_sub\4_submission\code_backup\xgb_only_v2_20250919-000134_seed4.py
+========================================
+VER: xgb_only_v2 | SEED: 6
+XGB (OOF) AP/WLL/SC = 0.60673/0.59800/0.61625
+T_xgb = 0.950
+BACKUP: Toss\submissions\xgb_only_v2_sub\6_submission\code_backup\xgb_only_v2_20250919-005406_seed6.py
+========================================
+VER: xgb_only_v2 | SEED: 8
+XGB (OOF) AP/WLL/SC = 0.61524/0.59385/0.62132
+T_xgb = 1.000
+BACKUP: Toss\submissions\xgb_only_v2_sub\8_submission\code_backup\xgb_only_v2_20250919-081811_seed8.py
+========================================
+VER: xgb_only_v2 | SEED: 9
+XGB (OOF) AP/WLL/SC = 0.61585/0.59384/0.62164
+T_xgb = 1.000
+BACKUP: Toss\submissions\xgb_only_v2_sub\9_submission\code_backup\xgb_only_v2_20250919-092526_seed9.py
+========================================
+VER: xgb_only_v2 | SEED: 11
+XGB (OOF) AP/WLL/SC = 0.61663/0.59384/0.62202
+T_xgb = 1.000
+BACKUP: Toss\submissions\xgb_only_v2_sub\11_submission\code_backup\xgb_only_v2_20250919-103952_seed11.py
+========================================
+VER: xgb_only_v2 | SEED: 12
+XGB (OOF) AP/WLL/SC = 0.61532/0.59385/0.62137
+T_xgb = 1.000
+BACKUP: Toss\submissions\xgb_only_v2_sub\12_submission\code_backup\xgb_only_v2_20250919-121606_seed12.py
+========================================
+VER: xgb_only_v2 | SEED: 13
+XGB (OOF) AP/WLL/SC = 0.61481/0.59452/0.62098
+T_xgb = 1.000
+BACKUP: Toss\submissions\xgb_only_v2_sub\13_submission\code_backup\xgb_only_v2_20250919-141512_seed13.py
+========================================
+VER: xgb_only_v2 | SEED: 14
+XGB (OOF) AP/WLL/SC = 0.61472/0.59418/0.62100
+T_xgb = 1.000
+BACKUP: Toss\submissions\xgb_only_v2_sub\14_submission\code_backup\xgb_only_v2_20250919-154425_seed14.py
+========================================
+VER: xgb_only_v2 | SEED: 16
+XGB (OOF) AP/WLL/SC = 0.61506/0.59366/0.62127
+T_xgb = 1.000
+BACKUP: Toss\submissions\xgb_only_v2_sub\16_submission\code_backup\xgb_only_v2_20250919-170300_seed16.py
+========================================
+VER: xgb_only_v2 | SEED: 17
+XGB (OOF) AP/WLL/SC = 0.61467/0.59461/0.62089
+T_xgb = 1.000
+BACKUP: Toss\submissions\xgb_only_v2_sub\17_submission\code_backup\xgb_only_v2_20250919-182742_seed17.py
+========================================
