@@ -1,0 +1,5 @@
+VER: xgb_only_v1 | SEED: 6
+XGB (OOF) AP/WLL/SC = 0.61140/0.59549/0.61908
+T_xgb = 1.000
+BACKUP: Toss\submissions\xgb_only_v1_sub\6_submission\code_backup\xgb_only_v1_20250918-223847_seed6.py
+========================================
